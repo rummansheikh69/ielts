@@ -1,0 +1,12 @@
+packages:
+  "framer-motion": "For smooth scroll animations and page transitions"
+  "react-hook-form": "For robust contact form handling"
+  "@hookform/resolvers": "For Zod validation integration"
+  "zod": "For schema validation on the contact form"
+  "clsx": "Utility for constructing className strings"
+  "tailwind-merge": "Utility for merging tailwind classes"
+
+notes:
+  - This is a static frontend landing page.
+  - Form submissions are simulated using a mock mutation.
+  - All illustrations are built using inline SVGs as requested.
